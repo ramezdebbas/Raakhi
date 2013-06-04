@@ -1,0 +1,12 @@
+Raakhi:
+Description:
+An inviter application made for the holy event of Hindus Raakhi (Raksha Bandhan). Here you can wish the Raakhi to you loved ones who are away from you. Now it is so easy for the sisters to wish Raakhi to their brothers with just single click. 
+	
+Features:
+•	The series of high quality Raakhi Wishing cards.
+•	Categorized cards to easily classify your party invitation.
+•	A User Form to fill out the information about party event.
+•	One-Click sending and sharing functionality.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Live Tiles(Locally & Remotely)
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
